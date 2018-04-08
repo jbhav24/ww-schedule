@@ -290,3 +290,7 @@ footer {
 	width: 80%;
 }
 }
+.day {
+	float: left;
+	width: 20%;
+}
