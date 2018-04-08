@@ -227,14 +227,15 @@ footer {
 
 .schoolbutton {
 	float: left;
-	padding-top: 5em;
-	padding-bottom: 5em;
+	padding-top: 3em;
+	padding-bottom: 3em;
 	padding-right: 5em;
 	padding-left: 5em;
-	margin-right: 60%;
+	margin-right: auto;
+    margin-left: auto;
 	background-color: #35536F;
 	color: #FFFFFF;
-	margin-left: 40%;
+	margin-left: 70%;
 }
 
 
