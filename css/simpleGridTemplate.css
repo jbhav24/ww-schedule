@@ -290,3 +290,10 @@ footer {
 	width: 80%;
 }
 }
+.day {
+	float: left;
+	width: 20%
+}
+table {
+	width: 100%;
+}
